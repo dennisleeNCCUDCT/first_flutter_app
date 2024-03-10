@@ -7,8 +7,8 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 import 'package:provider/provider.dart';
 
-import 'userdetails_model.dart';
-export 'userdetails_model.dart';
+import '../models/userdetails_model.dart';
+export '../models/userdetails_model.dart';
 
 class UserdetailsWidget extends StatefulWidget {
   const UserdetailsWidget({super.key});
